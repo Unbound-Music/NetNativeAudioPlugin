@@ -1,5 +1,5 @@
-# NetNativeAudioPlugin
- NetNativeAudioPlugin (NNAP) is more that just another plugin library. NNAP is a complete development package allowing the creation of MANAGED .NET (C#) audio plugins that can target multiple plugins formats and operating systems from a SINGLE CODE BASE, natively, w/o the need for .NET when deployed.
+# NetNativeAudioPlugin (NNAP)
+ NetNativeAudioPlugin (NNAP) is more that just another audio plugin library. NNAP is a complete development SDK allowing the creation of MANAGED .NET (C#) audio plugins that can target multiple plugins formats and operating systems from a SINGLE CODE BASE, natively, w/o the need for .NET when deployed.
 
 ## Feature Highlights
 
