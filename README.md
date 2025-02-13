@@ -18,7 +18,7 @@
 \*Pre-Release Preview [Alpha] 
 
 ##
-NNAP's foundation is rooted in the extensive [NPlug](https://github.com/xoofx/NPlug) .NET Native VST3 framework and [CppAst.CodeGen](https://github.com/xoofx/CppAst.CodeGen) library created by [xoofx](https://github.com/xoofx) and has been extended extensivly to support multiple plugin formats, user interfaces, and operating systems.  
+NNAP's foundation is rooted in the extensive [NPlug](https://github.com/xoofx/NPlug) .NET Native VST3 framework, [CppAst.NET](https://github.com/xoofx/CppAst.NET), and [CppAst.CodeGen](https://github.com/xoofx/CppAst.CodeGen) libraries created by [xoofx](https://github.com/xoofx) and expanded upon to support multiple plugin formats, user interfaces, and operating systems.  
 
 ##
 VST is a registered trademark of Steinberg Media Technologies GmbH. 
